@@ -83,11 +83,11 @@
 		<distributionManagement>
         <repository>
             <id>maven-releases</id>
-            <url>http://ae1a5ff75312e4ab7bfee23de951c564-346804384.us-east-2.elb.amazonaws.com/repository/maven-releases/</url>
+            <url>http://aa00302b752154acd84fa113cee0983e-245496633.us-east-2.elb.amazonaws.com/repository/maven-releases/</url>
         </repository>
         <snapshotRepository>
             <id>maven-snapshots</id>
-            <url>http://ae1a5ff75312e4ab7bfee23de951c564-346804384.us-east-2.elb.amazonaws.com/repository/maven-snapshots/</url>
+            <url>http://aa00302b752154acd84fa113cee0983e-245496633.us-east-2.elb.amazonaws.com/repository/maven-snapshots/</url>
         </snapshotRepository>
     </distributionManagement>
 
