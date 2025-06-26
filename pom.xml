@@ -87,7 +87,7 @@
         </repository>
         <snapshotRepository>
             <id>maven-snapshots</id>
-            <url>http://a52c36f3f15374e1b8ea2323573b5f11-1574175341.us-east-2.elb.amazonaws.com/repository/maven-snapshots/</url>
+            <url>http://23.22.204.43:30081/repository/maven-snapshots/</url>
         </snapshotRepository>
     </distributionManagement>
 
